@@ -1,0 +1,7 @@
+﻿  pch.cpp
+C:\Users\HP\Desktop\TestEx\TestEx\pch.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\TestEx\TestEx\pch.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\TestEx\TestEx\pch.cpp(70,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\TestEx\TestEx\pch.cpp(97,23): warning C4018: '<': signed/unsigned mismatch
+  TestEx.cpp
+  TestEx.vcxproj -> C:\Users\HP\Desktop\TestEx\Debug\TestEx.exe
