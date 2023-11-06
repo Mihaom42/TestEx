@@ -60,11 +60,6 @@ void Func2(const vector<int> NumberVector, const vector<int> Differences)
 	int LastDiffElem = Differences[Differences.size() - 1];
 	vector<int> DiffVector = GetDifferences(Differences);
 
-	while (!AreTheElementsSame(DiffVector))
-	{
-		DiffVector = GetDifferences(Differences);
-	}
-
 	vector<int> FinalVector = FillFinalVector(NumberVector, DiffVector, FinalVector, LastDiffElem);
 
 	OutputResult(FinalVector);
